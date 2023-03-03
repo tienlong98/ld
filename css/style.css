@@ -1,0 +1,70 @@
+img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.nav-item {
+  padding-left: 20px;
+  padding-right: 20px;
+  border-right: 2px solid yellowgreen;
+}
+
+.menu {
+  background-color: white;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+.menu .logo {
+  width: 70px;
+  height: 70px;
+}
+
+.tree .imeji p {
+  font-size: 25px;
+}
+
+.tree .imeji p span {
+  padding-bottom: 3px;
+  border-bottom: 4px solid yellowgreen;
+}
+
+.tree .content-naiyo p {
+  border-bottom: 3px solid blueviolet;
+  font-size: 20px;
+}
+
+.tinnhan {
+  background-color: #f4faff;
+}
+
+.tinnhan h1 {
+  border-bottom: 2px dashed;
+  padding-bottom: 20px;
+}
+
+.tinnhan .locay {
+  width: 50%;
+  height: auto;
+}
+
+.content-contact {
+  background-color: #f4faff;
+}
+
+.content-contact .title-contact p {
+  border-bottom: 2px dashed;
+}
+
+footer {
+  background-color: #8BC6FC;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
